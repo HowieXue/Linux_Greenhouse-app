@@ -1,6 +1,6 @@
-﻿<<<<<<< HEAD
-﻿# Linux
-Linux codes
+
+# Linux
+codes
 
 =======
 # 设施农业智能温室系统
